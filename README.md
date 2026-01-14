@@ -13,6 +13,7 @@ The dashboard highlights pollution trends, average AQI levels, good vs bad air d
 - Power BI
 - CSV AQI Dataset
 - Microsoft Azure Maps
+- Microsoft Excel
 
 ## Preview
 ![AQI Dashboard](dashboard/screenshots/aqi_dashboard.png)
