@@ -1,7 +1,12 @@
 # AQI Index Analysis Dashboard
 
-## Preview
-![AQI Dashboard](https://app.powerbi.com/groups/me/reports/367ddda8-bf72-4a4b-ba47-5c3d5f73aa7c/8135ac7b796d50c3c749?experience=power-bi)
+## 🔗 Live AQI Dashboard
+
+Click the link below to view the interactive AQI Index Analysis Dashboard hosted on Power BI:
+
+👉 [View Live Dashboard](https://app.powerbi.com/groups/me/reports/367ddda8-bf72-4a4b-ba47-5c3d5f73aa7c/8135ac7b796d50c3c749?experience=power-bi)
+
+
 
 This project provides a comprehensive analysis of Air Quality Index (AQI) data across different Indian states.
 The dashboard highlights pollution trends, average AQI levels, good vs bad air days, and state-wise comparisons.
@@ -18,5 +23,4 @@ The dashboard highlights pollution trends, average AQI levels, good vs bad air d
 - Microsoft Azure Maps
 - Microsoft Excel
 
-## Preview
-![AQI Dashboard](dashboard/screenshots/aqi_dashboard.png)
+
